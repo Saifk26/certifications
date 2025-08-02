@@ -1,2 +1,2 @@
 # certifications
-All the certificates done in computer science field
+📜 Certifications Completed During Undergraduate Studies
